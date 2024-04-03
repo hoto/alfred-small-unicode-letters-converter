@@ -1,6 +1,6 @@
 # Smolerize all the things
 
-Smolerize all the things
+![smolerize.gif](smolerize.gif)
 
 ### Install
 
