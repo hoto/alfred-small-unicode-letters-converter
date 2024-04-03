@@ -1,0 +1,30 @@
+{
+  "name": "@hoto/alfred-js-template",
+  "version": "1.0.0",
+  "description": "Alfred workflow JS template",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoto/alfred-js-template.git"
+  },
+  "author": "Andrzej Rehmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoto/alfred-js-template/issues"
+  },
+  "homepage": "https://github.com/hoto/alfred-js-template#readme",
+  "dependencies": {
+    "alfy": "1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
