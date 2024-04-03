@@ -1,6 +1,6 @@
 {
   "name": "@hoto/alfred-smolerize-workflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alfred workflow JS template",
   "engines": {
     "node": ">=16.0.0"
