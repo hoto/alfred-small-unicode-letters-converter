@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.github.hoto.alfred-small-unicode-letters-converter</string>
+	<string>com.github.hoto.alfred-smolerize-workflow</string>
 	<key>connections</key>
 	<dict>
 		<key>440044A2-3356-45EE-ADF6-57FE9A5B5B5F</key>
@@ -23,11 +23,11 @@
 	<key>createdby</key>
 	<string>Andrzej Rehmann</string>
 	<key>description</key>
-	<string>Small unicode letters converter</string>
+	<string>Smolerize all the things</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Small unicode letters converter</string>
+	<string>Smolerize all the things</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -66,7 +66,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Small unicode letters converter</string>
+				<string>Smolerize all the things</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -121,6 +121,6 @@
 	<key>userconfigurationconfig</key>
 	<array/>
 	<key>webaddress</key>
-	<string>https://github.com/hoto/alfred-small-unicode-letters-converter</string>
+	<string>https://github.com/hoto/alfred-smolerize-workflow</string>
 </dict>
 </plist>

@@ -1,5 +1,5 @@
 {
-  "name": "@hoto/alfred-small-unicode-letters-converter",
+  "name": "@hoto/alfred-smolerize-workflow",
   "version": "1.0.0",
   "description": "Alfred workflow JS template",
   "engines": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoto/alfred-small-unicode-letters-converter.git"
+    "url": "git+https://github.com/hoto/alfred-smolerize-workflow.git"
   },
   "author": "Andrzej Rehmann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoto/alfred-small-unicode-letters-converter/issues"
+    "url": "https://github.com/hoto/alfred-smolerize-workflow/issues"
   },
-  "homepage": "https://github.com/hoto/alfred-small-unicode-letters-converter#readme",
+  "homepage": "https://github.com/hoto/alfred-smolerize-workflow#readme",
   "dependencies": {
     "alfy": "1.0.0"
   },

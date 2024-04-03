@@ -1,10 +1,10 @@
-# Small unicode letters converter
+# Smolerize all the things
 
-Small unicode letters converter
+Smolerize all the things
 
 ### Install
 
-    npm install --location=global @hoto/alfred-small-unicode-letters-converter
+    npm install --location=global @hoto/alfred-smolerize-workflow
 
 ### Develop
 
