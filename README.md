@@ -1,21 +1,10 @@
-# Alfred JS template name
+# Small unicode letters converter
 
-Alfred JS template description
-
-```
-A template repository for an Alfred workflow using JavaScript.
-
-1. Globally replace:
-   - alfred-js-template
-   - Alfred JS template name
-   - Alfred JS template description
-2. Change the icon
-3. Delete this block
-```
+Small unicode letters converter
 
 ### Install
 
-    npm install --location=global @hoto/alfred-js-template
+    npm install --location=global @hoto/alfred-small-unicode-letters-converter
 
 ### Develop
 
@@ -30,4 +19,4 @@ Publish:
     npm publish --access public
 
 
-<a href="https://www.flaticon.com/free-icons/window" title="window icons">Window icons created by winnievinzence - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/pinch" title="pinch icons">Pinch icons created by Freepik - Flaticon</a>

@@ -1,5 +1,5 @@
 {
-  "name": "@hoto/alfred-js-template",
+  "name": "@hoto/alfred-small-unicode-letters-converter",
   "version": "1.0.0",
   "description": "Alfred workflow JS template",
   "engines": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoto/alfred-js-template.git"
+    "url": "git+https://github.com/hoto/alfred-small-unicode-letters-converter.git"
   },
   "author": "Andrzej Rehmann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoto/alfred-js-template/issues"
+    "url": "https://github.com/hoto/alfred-small-unicode-letters-converter/issues"
   },
-  "homepage": "https://github.com/hoto/alfred-js-template#readme",
+  "homepage": "https://github.com/hoto/alfred-small-unicode-letters-converter#readme",
   "dependencies": {
     "alfy": "1.0.0"
   },
